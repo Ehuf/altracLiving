@@ -256,3 +256,18 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+
+/* Map */
+.map {
+  height: 30rem;
+}
+
+@media (max-width: 992px) {
+  .map {
+    height: 100%;
+  }
+}
+
+.map iframe {
+  pointer-events: none;
+}
