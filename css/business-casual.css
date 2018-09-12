@@ -91,7 +91,8 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #B1C8D6;
+  color: #ffffff;
+    background-color: #B1C8D6;
 }
 
 @media (min-width: 992px) {
