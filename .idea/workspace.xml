@@ -14,8 +14,8 @@
       <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
+            <state relative-caret-position="1241">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
             </state>
           </provider>
         </entry>
@@ -120,8 +120,8 @@
         <option value="$PROJECT_DIR$/service.html" />
         <option value="$PROJECT_DIR$/instagram.js" />
         <option value="$PROJECT_DIR$/js/instafeed.min.js" />
-        <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/js/custom.js" />
+        <option value="$PROJECT_DIR$/gallery.html" />
       </list>
     </option>
   </component>
@@ -249,12 +249,12 @@
       <workItem from="1536673779701" duration="13283000" />
       <workItem from="1536747715311" duration="1435000" />
       <workItem from="1536750155821" duration="3106000" />
-      <workItem from="1536753683512" duration="1968000" />
+      <workItem from="1536753683512" duration="2231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19792000" />
+    <option name="totallyTimeSpent" value="20055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
@@ -494,13 +494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -512,6 +505,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="6592" selection-start-line="1" selection-start-column="6592" selection-end-line="1" selection-end-column="6592" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
         </state>
       </provider>
     </entry>
