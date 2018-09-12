@@ -103,7 +103,8 @@ p {
     color: #B1C8D6;
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #B9B6D3;
+      color: #ffffff;
+      background-color: #B9B6D3;
   }
 }
 
